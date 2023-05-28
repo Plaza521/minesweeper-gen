@@ -5,5 +5,5 @@ Generating
 --
 To generate run main.py using  
 ```sh
-$ main.py <amount of mines> <length of field>"
+$ main.py <mines amount> <length of field>
 ```
